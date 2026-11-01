@@ -8,3 +8,5 @@
 
 \- \[ ] Prepare registration
 
+\- \[ ] Test the registration link
+
